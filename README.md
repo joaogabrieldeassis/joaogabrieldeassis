@@ -1,6 +1,6 @@
 ### Hi there eu sou o João 
 
-- 🔭 I’m currentlmente  procurando vaga de estágio  de full-Stack  e
+- 🔭 I’m currentlmente  procurando vaga de estágio  de full-Stack  
 - 🌱 Atualmente estou estudando .NET com C#, Banco de dados SQLServer, PHP, HTML,CSS e fazendo curso tecnico de Desenvolvimento de Sistemas na etec
 - 👯 I’m looking to collaborate on  no desenvolvimento full-Stack com .NET
 - 📫 How to reach me: Linkedin  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
