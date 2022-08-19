@@ -1,7 +1,6 @@
-### Hi there eu sou o João 
+### Espero que goste do meu perfil :) 
 
-- 🔭 I’m currentlmente  procurando vaga de estágio  de full-Stack  
-- 🌱 Atualmente estou estudando .NET com C#, ASP.NET Core, Entity Framework Core, Banco de dados SQLServer, PHP, HTML,CSS e fazendo curso tecnico de Desenvolvimento de Sistemas na etec
+- 🌱 Eu me divirto com programação deis dos 15 anos de idade, e estou muito ancioso para ingressar em uma faculdade para aprimorar os meus conhecimentos e conseguir a minha primeira vaga de trabalho como programador.
 - 👯 I’m looking to collaborate on  no desenvolvimento full-Stack com .NET
 - 📫 How to reach me: Linkedin  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
 - 
