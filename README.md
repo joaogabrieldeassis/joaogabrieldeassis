@@ -1,8 +1,8 @@
 ### Espero que goste do meu perfil :) 
 
 - 🌱 Eu me divirto com programação deis dos 15 anos de idade, e estou muito ancioso para ingressar em uma faculdade para aprimorar os meus conhecimentos e conseguir a minha primeira vaga de trabalho como programador.
-- 👯 I’m looking to collaborate on  no desenvolvimento full-Stack com .NET
-- 📫 How to reach me: Linkedin  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
+- 👯 Venho estudando fortemente .NET, C#, Entity framework Core 6, ASP.NET WEB api, Angular
+- 📫 Meu perfil no Linkedin :  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
 - 
 <div align="center">
 <a href="https://github.com/joaogabrieldeassis">
