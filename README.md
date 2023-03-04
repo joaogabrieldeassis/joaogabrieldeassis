@@ -9,7 +9,7 @@ Por fim, ressalto que a minha meta para 2023 nos aspectos profissionais é alcan
 - 📫 Meu perfil no Linkedin :  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
 - 
 <div align="center">
-<a href="https://github.com/joaogabrieldeassis">
+<a href="https://github.com/joaogabrieldeassis/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrieldeassis&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieldeassis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
