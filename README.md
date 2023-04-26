@@ -1,5 +1,4 @@
-### Espero que goste do meu perfil :) 
-
+ #Seja Bem vindo(a)! Volte sempre!:)
 - 🌱 Bom dia, Boa tarde ou Boa noite!
 Meu nome é João Gabriel, atualmente tenho 18 anos de idade. Durante a minha infância, sempre vivenciei a programação e a tecnologia como um divertimento e vi a oportunidade de ser a minha escolha profissional. Então, no final de 2022 conclui o curso técnico de Análise e Desenvolvimento de Software, onde tive a  oportunidade de aprender diversas tecnologias e ampliar os meus conhecimentos no desenvolvimento de software. 
 Nesse ano de 2023, iniciei o meu percurso académico, onde vejo uma possibilidade de alargar os meus conhecimentos com a tecnologia.
