@@ -13,7 +13,7 @@ Por fim, ressalto que a minha meta para esse ano, nos aspectos profissionais é 
 </div>
   <br>
 <div> 
-  <div style="display: inline_block;margin-left:150px;"><br>
+  <div style="display: flex; gap: 10px; margin-left:150px;"><br>
     
   <img  align="center" alt=".NET" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Csharp" left="10px" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
