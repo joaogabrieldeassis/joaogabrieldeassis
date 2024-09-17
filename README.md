@@ -13,18 +13,27 @@ Por fim, ressalto que a minha meta para esse ano, nos aspectos profissionais é 
 </div>
   <br>
 <div> 
-  <div style="display: flex; gap: 10px; margin-left:150px;"><br>
-    
+  <div>
+  
   <img  align="center" alt=".NET" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+  &nbsp
+  &nbsp
   <img align="center" alt="Csharp" left="10px" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  &nbsp
+  &nbsp
   <img align="center" alt="Angular" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  &nbsp
+  &nbsp
   <img align="center" alt="Angular" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp
+  &nbsp
   <img align="center" alt="CSS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  &nbsp
+  &nbsp
   <img align="center" alt="CSS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+  &nbsp
+  &nbsp
   <img align="center" alt="CSS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-          
-          
-         
 </div>
   
   ##
