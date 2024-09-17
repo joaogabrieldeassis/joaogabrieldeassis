@@ -1,9 +1,8 @@
  #Seja Bem vindo(a)! Volte sempre!:)
 - 🌱 Durante a minha infância, sempre vivenciei a programação e a tecnologia como um divertimento e vi a oportunidade de ser a minha escolha profissional. Então, no final de 2022 conclui o curso técnico de Análise e Desenvolvimento de Software, onde tive a oportunidade de aprender diversas tecnologias e ampliar os meus conhecimentos no desenvolvimento de software. 
-Estou no meu percurso académico, onde vejo uma possibilidade de alargar os meus conhecimentos com a tecnologia.
+Estou no final do meu percurso académico de analise e desenvolvimento de sistemas, onde vou concluir mais uma etapa importante da minha carreira.
 Por fim, ressalto que a minha meta para esse ano, nos aspectos profissionais é alcançar o meu sucesso profissional e consequentemente, proporcionar através do meu trabalho um futuro melhor para a minha família.
 
-- 👯 Venho estudando fortemente .NET, C#, Entity framework Core, ASP.NET WEB api, DDD(Domain-Driven Design), Testes de unidade, Arquitetura limpa e Angular
 - 📫 Meu perfil no Linkedin :  https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-assis-a3b6b8217
 - 
 <div align="center">
